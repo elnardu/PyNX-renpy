@@ -1,0 +1,1 @@
+from __cwrap_renpy_pydict import * 

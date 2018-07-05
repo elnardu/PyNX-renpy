@@ -1,0 +1,1 @@
+__cwrap_renpy_styledata_stylesets -I$(srcdir)/Modules -I$(srcdir)/Modules/renpy renpy/__cwrap_renpy_styledata_stylesets.c

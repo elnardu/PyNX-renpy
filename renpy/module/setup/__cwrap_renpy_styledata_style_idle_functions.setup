@@ -1,0 +1,1 @@
+__cwrap_renpy_styledata_style_idle_functions -I$(srcdir)/Modules -I$(srcdir)/Modules/renpy renpy/__cwrap_renpy_styledata_style_idle_functions.c

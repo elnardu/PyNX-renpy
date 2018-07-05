@@ -1,0 +1,1 @@
+from __cwrap_renpy_text_ftfont import * 

@@ -1,6 +1,8 @@
 [submodule "pygame_sdl2"]
 	path = pygame_sdl2
 	url = https://github.com/renpy/pygame_sdl2.git
+	ignore = dirty
 [submodule "PyNX"]
 	path = PyNX
 	url = https://github.com/elnardu/PyNX.git
+	ignore = dirty
