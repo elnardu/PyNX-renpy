@@ -1,1 +1,0 @@
-__cwrap_renpy_text_ftfont -I$(srcdir)/Modules -I$(srcdir)/Modules/renpy renpy/ftsupport.c renpy/ttgsubtable.c renpy/__cwrap_renpy_text_ftfont.c

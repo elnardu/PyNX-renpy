@@ -164,7 +164,7 @@ def cython(name, source=[], orgToWrap={}):
     try:
         subprocess.check_call([
             cython_command,
-            version_flag,
+            "-2",
             "-Iinclude",
             "-I" + gen,
             # "-a",

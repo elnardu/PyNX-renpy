@@ -1,1 +1,0 @@
-_renpy -I$(srcdir)/Modules -I$(srcdir)/Modules/renpy renpy/core.c renpy/subpixel.c renpy/_renpy.c

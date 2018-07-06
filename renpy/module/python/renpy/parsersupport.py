@@ -1,1 +1,0 @@
-from __cwrap_renpy_parsersupport import * 
